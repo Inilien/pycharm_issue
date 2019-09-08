@@ -3,4 +3,6 @@ Project demonstrates that PyCharm do not understand simple
 expressions in `template_name` of views and therefore cannot
 link `.py` and `.html` files together.  
 Look at `myapp/views.py` in PyCharm Professional edition 2019.2.1
-  
+
+[PyCharm Issue](https://youtrack.jetbrains.com/issue/PY-37889)
+
